@@ -14,7 +14,7 @@ const user = {
   jobTitle: 'Senior Developer',
   country: 'USA',
   city: 'Los Angeles',
-  timezone: 'GTM-7',
+  timezone: 'GTM+2',
 } as const;
 
 export function AccountInfo(): React.JSX.Element {
